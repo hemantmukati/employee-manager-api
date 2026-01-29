@@ -106,7 +106,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 👨‍💼 Employee APIs (Protected)
+## Employee APIs (Protected)
 
 | Method | Endpoint | Description |
 |--------|------------------------|-------------------|
